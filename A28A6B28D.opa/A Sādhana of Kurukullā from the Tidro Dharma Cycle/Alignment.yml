@@ -1,0 +1,16 @@
+segment_sources:
+  P211421A7:
+    type: origin_type
+    relation: translation
+    language: en
+  PB861324C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4f95397e5fc443a4923a3b19587d7ec8:
+    P211421A7: 589e940155f54b63af2c247fae5c1ebc
+    PB861324C: 36e05664bade4245a3f23427c9b38505
+  3d12012037114c1cbcd521aedb18ad47:
+    P211421A7: d890801f1d9b4919a838c337e97d961e
+    PB861324C: 08cf76a8a3634597b1dae5c299326734

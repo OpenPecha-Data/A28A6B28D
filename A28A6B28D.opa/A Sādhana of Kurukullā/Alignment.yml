@@ -1,0 +1,22 @@
+segment_sources:
+  P211421A7:
+    type: origin_type
+    relation: translation
+    language: en
+  PB861324C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9e43dc24b8fb4d2eb06bc6a547ccfef0:
+    P211421A7: 1e3bf314b6a34ac1a716dfc4e63cadf4
+    PB861324C: 624eca9ccc84443d8af7d5f4d150199d
+  f04961dbcd924a9b9e23b5daba178dd5:
+    P211421A7: c2457cc375594147a169289d3d9068f1
+    PB861324C: c7c9aeed7680428b8662d531b072336a
+  5afae9b3d12d45369d2c11effc1aa496:
+    P211421A7: da390c560d24410db5f8721807b1db3d
+    PB861324C: 6d8fa6d922ee416598ce2a730e5fc862
+  52af237f931647db9c39d79b4d6d3ba4:
+    P211421A7: 4fd9319fbbe04e39addfee063396eb02
+    PB861324C: 6f4cca8dec574dfabee034397f0f0516
